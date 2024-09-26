@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: abhi0315/argocd:build-14
+        image: abhi0315/argocd:build-9
         ports:
         - containerPort: 80
